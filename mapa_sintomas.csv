@@ -1,0 +1,57 @@
+sintoma_1,sintoma_2,doenca_associada
+dor no peito,suor frio,Infarto
+dor no peito,dor no braço esquerdo,Infarto
+dor no peito,náusea,Infarto
+dor no peito,dor no queixo,Infarto
+aperto no peito,falta de ar,Infarto
+aperto no peito,suor frio,Infarto
+dor no peito,tontura,Infarto
+dor no peito,palpitação,Angina Instável
+aperto no peito,dor no braço esquerdo,Angina Instável
+dor no peito ao esforço,falta de ar,Angina Instável
+dor no peito ao repouso,suor frio,Angina Instável
+cansaço,falta de ar,Insuficiência Cardíaca
+inchaço nas pernas,falta de ar,Insuficiência Cardíaca
+inchaço nas pernas,cansaço,Insuficiência Cardíaca
+falta de ar ao deitar,inchaço nas pernas,Insuficiência Cardíaca
+falta de ar ao esforço,cansaço extremo,Insuficiência Cardíaca
+fadiga,inchaço nas pernas,Insuficiência Cardíaca
+cansaço extremo,falta de ar ao deitar,Insuficiência Cardíaca
+palpitação,batimento irregular,Arritmia
+batimento acelerado,tontura,Arritmia
+batimento irregular,falta de ar,Arritmia
+palpitação,falta de ar,Arritmia
+batimento acelerado,palpitação,Taquicardia Ventricular
+batimento irregular,desmaio,Taquicardia Ventricular
+batimento acelerado,suor frio,Taquicardia Ventricular
+palpitação,dor no peito,Fibrilação Atrial
+batimento irregular,cansaço,Fibrilação Atrial
+palpitação,tontura,Fibrilação Atrial
+batimento irregular,batimento acelerado,Fibrilação Atrial
+tontura ao levantar,pressão baixa,Hipotensão
+tontura,fraqueza,Hipotensão
+desmaio,tontura,Hipotensão
+pressão baixa,cansaço,Hipotensão
+pressão alta,dor de cabeça,Hipertensão
+pressão alta,tontura,Hipertensão
+visão turva,dor de cabeça,Hipertensão
+pressão alta,falta de ar,Hipertensão
+falta de ar,tosse persistente,Problema Pulmonar
+chiado no peito,falta de ar,Problema Pulmonar
+tosse persistente,dor no peito,Problema Pulmonar
+falta de ar súbita,dor no peito,Embolia Pulmonar
+dor no peito ao respirar,falta de ar,Embolia Pulmonar
+tosse com sangue,falta de ar,Embolia Pulmonar
+dor no peito pleurítico,batimento acelerado,Embolia Pulmonar
+dor no peito ao respirar,febre,Pericardite
+dor no peito que piora ao deitar,falta de ar,Pericardite
+dor no peito que melhora ao sentar,febre,Pericardite
+dormência no braço,tontura,AVC
+fraqueza repentina,confusão mental,AVC
+dor de cabeça súbita,tontura intensa,AVC
+visão turva,dificuldade para falar,AVC
+ansiedade,palpitação,Ansiedade
+tensão no peito,falta de ar,Ansiedade
+tremor,batimento acelerado,Ansiedade
+dor nas costas,cansaço,Problema Muscular
+dor muscular,rigidez,Problema Muscular
